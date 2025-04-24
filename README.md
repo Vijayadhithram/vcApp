@@ -1,5 +1,6 @@
 📞 Video Calling Web Application
-A full-stack web application that enables users to register, log in, view other users, and initiate real-time video calls using Zegocloud. The backend is powered by Spring Boot, while the frontend is built with HTML, CSS, and JavaScript.
+A full-stack web application that enables users to register, log in, view other users, and initiate real-time video
+calls using Zegocloud. The backend is powered by Spring Boot, while the frontend is built with HTML, CSS, and JavaScript.
 
 🚀 Features
 ✅ User Registration and Login
